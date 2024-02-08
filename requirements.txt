@@ -5,7 +5,6 @@ mkl
 setuptools
 cmake
 cffi
-torch
 matplotlib
 scikit-image
-torchvision
+
